@@ -2,12 +2,8 @@
 
 This model clustering customer by Knowing their Annual Income and Spending Score
 
-Import Libraries
-
-Data analysis and visualization
-
-Data Preprocessing
-
-Clustering by use K-means and Hierachical clustreing
-
-Visualization the Clustering
+1.Import Libraries
+2.Data analysis and visualization
+3.Data Preprocessing
+4.Clustering by use K-means and Hierachical clustreing
+5.Visualization the Clustering
